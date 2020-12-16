@@ -1,0 +1,14 @@
+token: "NzI1OTIzNjQ1OTU1ODk5NDE0.XvVzIw.VBHlN9vpEYy1QSUz49Fv62lm9ng"
+client_id: 725923645955899414
+client_secret: "AAyud4DfhsLhyKtuJ7dYWnTeyBOurA6R"
+
+postgres:
+  host: "localhost"
+  port: 5432
+  database: "feudalbot"
+  user: "postgres"
+  password: "BS103261"
+
+redis:
+  host: "localhost"
+  port: 6379
